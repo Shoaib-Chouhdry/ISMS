@@ -1,0 +1,482 @@
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\bin\Debug\net5.0-windows\ISMSF.exe
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\bin\Debug\net5.0-windows\ISMSF.deps.json
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.json
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.dev.json
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\bin\Debug\net5.0-windows\ISMSF.dll
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\bin\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\bin\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form1.resources
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.GenerateResource.cache
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfoInputs.cache
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfo.cs
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CoreCompileInputs.cache
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.dll
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.genruntimeconfig.cache
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.AssemblyReference.cache
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form2.resources
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CopyComplete
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAdmin.resources
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Properties.Resources.resources
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegAsset.resources
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopleReg.resources
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardwareReg.resources
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftwareReg.resources
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewAsset.resources
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormThreatReg.resources
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRiskAssesment.resources
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAddRisk.resources
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAddthreats.resources
+C:\Users\ZoHa!B\source\repos\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.policies_reg.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\bin\Debug\net5.0-windows\ISMSF.exe
+C:\Users\dell\Desktop\ISMSF\ISMSF\bin\Debug\net5.0-windows\ISMSF.deps.json
+C:\Users\dell\Desktop\ISMSF\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.json
+C:\Users\dell\Desktop\ISMSF\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.dev.json
+C:\Users\dell\Desktop\ISMSF\ISMSF\bin\Debug\net5.0-windows\ISMSF.dll
+C:\Users\dell\Desktop\ISMSF\ISMSF\bin\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\dell\Desktop\ISMSF\ISMSF\bin\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\dell\Desktop\ISMSF\ISMSF\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\dell\Desktop\ISMSF\ISMSF\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dell\Desktop\ISMSF\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dell\Desktop\ISMSF\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dell\Desktop\ISMSF\ISMSF\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dell\Desktop\ISMSF\ISMSF\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form1.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form2.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAddthreats.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAdmin.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardwareReg.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopleReg.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegAsset.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftwareReg.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormThreatReg.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewAsset.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.policies_reg.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Properties.Resources.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfo.cs
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CopyComplete
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.dll
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.genruntimeconfig.cache
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopAssetView.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftAssetView.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardAssetView.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterVulnerabilities.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewVulnerabilities.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.Formvulnerabilities.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewThreat.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterComplaints.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormComplaints.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewComplaints.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPolicies.resources
+C:\Users\dell\Desktop\ISMSF\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewPolicies.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.exe
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.deps.json
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.json
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.dev.json
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.dll
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form1.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form2.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAddthreats.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAdmin.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormComplaints.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardAssetView.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardwareReg.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopAssetView.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopleReg.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPolicies.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegAsset.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterComplaints.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterVulnerabilities.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftAssetView.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftwareReg.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormThreatReg.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewAsset.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewComplaints.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewPolicies.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewThreat.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewVulnerabilities.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.Formvulnerabilities.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.policies_reg.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Properties.Resources.resources
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfo.cs
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CopyComplete
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.dll
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\dell\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.genruntimeconfig.cache
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.exe
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.deps.json
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.json
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.dev.json
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.AssemblyReference.cache
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form1.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form2.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAddthreats.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAdmin.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormComplaints.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardAssetView.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardwareReg.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopAssetView.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopleReg.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPolicies.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegAsset.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterComplaints.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterVulnerabilities.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftAssetView.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftwareReg.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormThreatReg.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewAsset.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewComplaints.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewPolicies.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewThreat.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewVulnerabilities.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.Formvulnerabilities.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.policies_reg.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Properties.Resources.resources
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.GenerateResource.cache
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfoInputs.cache
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfo.cs
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CoreCompileInputs.cache
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CopyComplete
+C:\Users\ZoHaiB\Desktop\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.genruntimeconfig.cache
+H:\All Semster\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.exe
+H:\All Semster\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.deps.json
+H:\All Semster\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.json
+H:\All Semster\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.dev.json
+H:\All Semster\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.dll
+H:\All Semster\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ref\ISMSF.dll
+H:\All Semster\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\ISMSF.pdb
+H:\All Semster\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+H:\All Semster\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+H:\All Semster\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+H:\All Semster\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+H:\All Semster\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\All Semster\ISMSF - Copy\ISMSF\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.AssemblyReference.cache
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form1.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form2.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAddthreats.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAdmin.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormComplaints.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardAssetView.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardwareReg.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopAssetView.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopleReg.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPolicies.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegAsset.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterComplaints.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterVulnerabilities.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftAssetView.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftwareReg.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormThreatReg.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewAsset.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewComplaints.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewPolicies.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewThreat.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewVulnerabilities.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.Formvulnerabilities.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.policies_reg.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Properties.Resources.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.GenerateResource.cache
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.GeneratedMSBuildEditorConfig.editorconfig
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfoInputs.cache
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfo.cs
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CoreCompileInputs.cache
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CopyComplete
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.dll
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ref\ISMSF.dll
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.pdb
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.genruntimeconfig.cache
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRAssesment.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRiskAssesment.resources
+H:\All Semster\ISMSF - Copy\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewRiskAssesment.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\bin\Debug\net5.0-windows\ISMSF.exe
+C:\Users\ZoHaiB\Desktop\new\ISMSF\bin\Debug\net5.0-windows\ISMSF.deps.json
+C:\Users\ZoHaiB\Desktop\new\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.json
+C:\Users\ZoHaiB\Desktop\new\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.dev.json
+C:\Users\ZoHaiB\Desktop\new\ISMSF\bin\Debug\net5.0-windows\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\new\ISMSF\bin\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\new\ISMSF\bin\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\ZoHaiB\Desktop\new\ISMSF\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ZoHaiB\Desktop\new\ISMSF\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ZoHaiB\Desktop\new\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ZoHaiB\Desktop\new\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ZoHaiB\Desktop\new\ISMSF\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ZoHaiB\Desktop\new\ISMSF\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.AssemblyReference.cache
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form1.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form2.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAddthreats.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAdmin.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormComplaints.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardAssetView.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardwareReg.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopAssetView.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopleReg.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPolicies.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRAssesment.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegAsset.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterComplaints.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterVulnerabilities.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRiskAssesment.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftAssetView.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftwareReg.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormThreatReg.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewAsset.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewComplaints.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewPolicies.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewRiskAssesment.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewThreat.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewVulnerabilities.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.Formvulnerabilities.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.policies_reg.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.Properties.Resources.resources
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.GenerateResource.cache
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfoInputs.cache
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfo.cs
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CoreCompileInputs.cache
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CopyComplete
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\ZoHaiB\Desktop\new\ISMSF\obj\Debug\net5.0-windows\ISMSF.genruntimeconfig.cache
+C:\Users\ZoHaiB\Desktop\old\ISMSF\bin\Debug\net5.0-windows\ISMSF.exe
+C:\Users\ZoHaiB\Desktop\old\ISMSF\bin\Debug\net5.0-windows\ISMSF.deps.json
+C:\Users\ZoHaiB\Desktop\old\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.json
+C:\Users\ZoHaiB\Desktop\old\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.dev.json
+C:\Users\ZoHaiB\Desktop\old\ISMSF\bin\Debug\net5.0-windows\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\old\ISMSF\bin\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\old\ISMSF\bin\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\ZoHaiB\Desktop\old\ISMSF\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ZoHaiB\Desktop\old\ISMSF\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ZoHaiB\Desktop\old\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ZoHaiB\Desktop\old\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ZoHaiB\Desktop\old\ISMSF\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ZoHaiB\Desktop\old\ISMSF\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.AssemblyReference.cache
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form1.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form2.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAddthreats.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAdmin.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormComplaints.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardAssetView.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardwareReg.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopAssetView.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopleReg.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPolicies.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRAssesment.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegAsset.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterComplaints.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterVulnerabilities.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRiskAssesment.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftAssetView.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftwareReg.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormThreatReg.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewAsset.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewComplaints.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewPolicies.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewRiskAssesment.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewThreat.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewVulnerabilities.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.Formvulnerabilities.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.policies_reg.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Properties.Resources.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.GenerateResource.cache
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfoInputs.cache
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfo.cs
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CoreCompileInputs.cache
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CopyComplete
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.genruntimeconfig.cache
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAssignPolicies.resources
+C:\Users\ZoHaiB\Desktop\old\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewAssignPolicy.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\bin\Debug\net5.0-windows\ISMSF.exe
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\bin\Debug\net5.0-windows\ISMSF.deps.json
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.json
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.dev.json
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\bin\Debug\net5.0-windows\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\bin\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\bin\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.AssemblyReference.cache
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form1.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form2.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAddthreats.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAdmin.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAssignPolicies.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormComplaints.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardAssetView.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardwareReg.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopAssetView.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopleReg.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPolicies.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRAssesment.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegAsset.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterComplaints.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterVulnerabilities.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRiskAssesment.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftAssetView.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftwareReg.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormThreatReg.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewAsset.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewAssignPolicy.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewComplaints.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewPolicies.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewRiskAssesment.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewThreat.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewVulnerabilities.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.Formvulnerabilities.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.policies_reg.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.Properties.Resources.resources
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.GenerateResource.cache
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfoInputs.cache
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfo.cs
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CoreCompileInputs.cache
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CopyComplete
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\ZoHaiB\Desktop\oldr\ISMSF\obj\Debug\net5.0-windows\ISMSF.genruntimeconfig.cache
+C:\Users\dell\Desktop\fypvisio\ISMSF\bin\Debug\net5.0-windows\ISMSF.exe
+C:\Users\dell\Desktop\fypvisio\ISMSF\bin\Debug\net5.0-windows\ISMSF.deps.json
+C:\Users\dell\Desktop\fypvisio\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.json
+C:\Users\dell\Desktop\fypvisio\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.dev.json
+C:\Users\dell\Desktop\fypvisio\ISMSF\bin\Debug\net5.0-windows\ISMSF.dll
+C:\Users\dell\Desktop\fypvisio\ISMSF\bin\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\dell\Desktop\fypvisio\ISMSF\bin\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\dell\Desktop\fypvisio\ISMSF\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\dell\Desktop\fypvisio\ISMSF\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dell\Desktop\fypvisio\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dell\Desktop\fypvisio\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dell\Desktop\fypvisio\ISMSF\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dell\Desktop\fypvisio\ISMSF\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form1.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form2.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAddthreats.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAdmin.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAssignPolicies.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardAssetView.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardwareReg.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopAssetView.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopleReg.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRAssesment.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterComplaints.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterVulnerabilities.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftAssetView.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftwareReg.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewAssignPolicy.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewComplaints.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewPolicies.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewRiskAssesment.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewThreat.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewVulnerabilities.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.policies_reg.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Properties.Resources.resources
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfo.cs
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CopyComplete
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.dll
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\dell\Desktop\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.genruntimeconfig.cache
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\bin\Debug\net5.0-windows\ISMSF.exe
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\bin\Debug\net5.0-windows\ISMSF.deps.json
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.json
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\bin\Debug\net5.0-windows\ISMSF.runtimeconfig.dev.json
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\bin\Debug\net5.0-windows\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\bin\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\bin\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.AssemblyReference.cache
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form1.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Form2.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAddthreats.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAdmin.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormAssignPolicies.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardAssetView.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormHardwareReg.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopAssetView.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormPeopleReg.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRAssesment.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterComplaints.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormRegisterVulnerabilities.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftAssetView.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormSoftwareReg.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewAssignPolicy.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewComplaints.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewPolicies.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewRiskAssesment.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewThreat.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Forms.FormViewVulnerabilities.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.policies_reg.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.Properties.Resources.resources
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.GenerateResource.cache
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfoInputs.cache
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.AssemblyInfo.cs
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CoreCompileInputs.cache
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.csproj.CopyComplete
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ref\ISMSF.dll
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.pdb
+C:\Users\ZoHaiB\Desktop\fypvisio\fypvisio\ISMSF\obj\Debug\net5.0-windows\ISMSF.genruntimeconfig.cache

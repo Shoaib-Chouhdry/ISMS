@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormAssignPolicies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormRegisterComplaints.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormRegisterVulnerabilities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormAddthreats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormHardAssetView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormHardwareReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormPeopleReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormViewAssignPolicy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormViewComplaints.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormViewPolicies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormRAssesment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormViewRiskAssesment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormViewThreat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormViewVulnerabilities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormSoftAssetView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormSoftwareReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormPeopAssetView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\policies reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
